@@ -9,4 +9,10 @@ List of Algorithms and Data Structures
 6) Depth First Search
 7) Djishktra Algorithm
 8) Heaps
-9) 
+9) Kruskal Algorithm
+10) Linear Probing
+11) Linked List
+12) Prims Algorithm
+13) Stack
+14) Queue
+15) Ternary Search Tree
